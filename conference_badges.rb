@@ -17,3 +17,6 @@ def assign_rooms(array)
   end
   list_of_welcome_message_and_room_assignment
 end
+
+def printer
+end
